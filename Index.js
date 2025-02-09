@@ -7,7 +7,7 @@ app.use(express.json());
 
 CreateTableContacts();
 
-app.get("/",(req,res)=>{
+app.get("/",(req,res)=>{ 
     res.status(200).json({
         Message:"Server Is Running"
     }) 
