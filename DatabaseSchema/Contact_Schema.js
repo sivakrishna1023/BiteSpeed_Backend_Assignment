@@ -4,7 +4,7 @@ async function CreateTableContacts() {
     try{
         const client=await getClient();
         await client.query(`
-            CREATE TABLE IF NOT EXISTS contact (
+            CREATE TABLE IF NOT EXISTS contacts (
             id SERIAL PRIMARY KEY,
             phoneNumber VARCHAR(255),
             email VARCHAR(255),
