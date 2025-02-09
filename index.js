@@ -1,6 +1,6 @@
 const express=require('express');
 const app=express();
-const {CreateTableContacts} = require('./DataBaseSchema/Contact_Schema');
+const {CreateTableContacts} = require('./DatabaseSchema/Contact_Schema');
 const {getClient}=require('./DatabaseConnection');
 
 app.use(express.json());
