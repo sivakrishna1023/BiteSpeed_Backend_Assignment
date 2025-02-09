@@ -1,6 +1,6 @@
 # BiteSpeed Backend Assignment
 
-I have successfully completed the BiteSpeed backend assignment using a relational database, PostgreSQL. For the backend HTTP routes, I used Express and Node.js in JavaScript. Additionally, I deployed my code on Render.com. You can find the deployed application at the following URL: [Your URL Here].
+I have successfully completed the BiteSpeed backend assignment using a relational database, PostgreSQL. For the backend HTTP routes, I used Express and Node.js in JavaScript. Additionally, I deployed my code on Render.com. You can find the deployed application at the following URL: https://bitespeed-backend-assignment-vr9y.onrender.com.
 
 ## Features
 
